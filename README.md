@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bansalrajat
-- 👀 I’m a Devops and  interested in #kubernetes #containerization #Jenkins #Terraform #Helm #cloudNative
+- 👀 I’m a Platform Engineer and  interested in #kubernetes #containerization #Jenkins #Terraform #Helm #cloudNative #Gitlab
 Technologies
-- 🌱 I’m currently learning advanced gcp services.
+- 🌱 I am currently workin on kubernetes and aws cloud.
 - 💞️ I’m looking to collaborate on gcp projects.
 - 📫 How to reach me ... ping me on https://www.linkedin.com/in/rajat-bansal/
 
